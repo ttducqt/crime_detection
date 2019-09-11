@@ -1,5 +1,5 @@
 classes= 1
-train  = train.txt
-valid  = val.txt
-names = yolo.names
+train  = crime_detection/train.txt
+valid  = crime_detection/val.txt
+names = crime_detection/yolo.names
 backup = backup

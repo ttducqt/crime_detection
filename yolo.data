@@ -2,4 +2,4 @@ classes= 1
 train  = crime_detection/train.txt
 valid  = crime_detection/val.txt
 names = crime_detection/yolo.names
-backup = backup
+backup = /content/drive/My Drive/Colab Notebooks/backup
